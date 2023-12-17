@@ -8,8 +8,7 @@ package expense_income_entry;
  *
  * @author RUDRA NARAYAN BISHOYI
  */
-
-   /*
+ /*
  * ExpenseIncomeEntry represents a single entry for expenses and incomes.
  * Each entry contains a date, description, amount, and type (expense or income).
  */
